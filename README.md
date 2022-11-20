@@ -2,7 +2,12 @@
 
 ###
 
-<p align="left">I'm a web developer with over 2 years of experience and 60 satisfied clients around the world.</p>
+<div align="center">
+  <a href="https://github.com/Anvar2742/react-quiz"><img height="200" src="https://drive.google.com/uc?id=11lOD0ewlrfihW0nA6OMGIid9Sph4puVG"  /></a>
+  <a href="https://github.com/Anvar2742/phase10"><img height="200" src="https://drive.google.com/uc?id=1gk5UTaBUxi7fd0FeD5OM_xnXhXGThqbl"  /></a>
+  <a href="https://github.com/Anvar2742/nft-market-react"><img height="200" src="https://drive.google.com/uc?id=1-p8IpYZGfYhb8QkUzp5rvWH0wXNwTY9V"  /></a>
+  <a href="https://drive.google.com/uc?id=1PaR6F-ccyOoamkSa-Q_WsZLiZzSgnEV6"><img height="200" src="https://drive.google.com/uc?id=1PaR6F-ccyOoamkSa-Q_WsZLiZzSgnEV6"  /></a>
+</div>
 
 ###
 
