@@ -19,6 +19,16 @@
 
 ###
 
+<h2 align="left">I speak</h2>
+<ul>
+  <li>English (Fluent)</li>
+  <li>French (Beginner)</li>
+  <li>Russian (Native)</li>
+  <li>Turkish (Native)</li>
+</ul>
+
+###
+
 <h2 align="left">Tools that I use</h2>
 
 ###
