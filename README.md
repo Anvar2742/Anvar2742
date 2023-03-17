@@ -22,7 +22,7 @@
 <h2 align="left">I speak</h2>
 <ul>
   <li>English (Fluent)</li>
-  <li>French (Beginner)</li>
+  <li>French (Intermediate)</li>
   <li>Russian (Native)</li>
   <li>Turkish (Native)</li>
 </ul>
