@@ -11,14 +11,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">- Fixing bugs since 2020<br>- I've created over 30 full stack websites over these 2 years<br>- Currently improving my frontend skills<br>- I'm looking for a team of passionate developers like me to work with</p>
-
-###
-
 <h2 align="left">I speak</h2>
 <ul>
   <li>English (Fluent)</li>
