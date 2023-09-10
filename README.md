@@ -6,7 +6,8 @@
   <a href="https://github.com/Anvar2742/phase10"><img height="200" src="https://anvar2742.github.io/platormRun/assets/2.png"  /></a>
   <a href="https://github.com/Anvar2742/nft-market-react"><img height="200" src="https://anvar2742.github.io/platormRun/assets/3.png"  /></a>
   <a href="https://github.com/Anvar2742/react-quiz"><img height="200" src="https://anvar2742.github.io/platormRun/assets/1.png"/></a>
-  <a href="https://drive.google.com/uc?id=1PaR6F-ccyOoamkSa-Q_WsZLiZzSgnEV6"><img height="200" src="https://anvar2742.github.io/platormRun/assets/ezgif.com-gif-maker.gif"  /></a>
+  <a href="https://reliable-jalebi-6f9585.netlify.app/"><img height="200" src="https://anvar2742.github.io/platormRun/assets/cine-arch-thumbnail.png"  /></a>
+  <img height="200" src="https://anvar2742.github.io/platormRun/assets/ezgif.com-gif-maker.gif"  />
 </div>
 
 ###
