@@ -3,12 +3,13 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/Anvar2742/phase10"><img height="200" src="https://anvar2742.github.io/platormRun/assets/2.png"  /></a>
-  <a href="https://github.com/Anvar2742/nft-market-react"><img height="200" src="https://anvar2742.github.io/platormRun/assets/3.png"  /></a>
-  <a href="https://github.com/Anvar2742/react-quiz"><img height="200" src="https://anvar2742.github.io/platormRun/assets/1.png"/></a>
-  <a href="https://reliable-jalebi-6f9585.netlify.app/"><img height="200" src="https://anvar2742.github.io/platormRun/assets/cine-arch-thumbnail.png"  /></a>
-  <img height="200" src="https://anvar2742.github.io/platormRun/assets/ezgif.com-gif-maker.gif"  />
+  <a href="https://github.com/Anvar2742/phase10"><img height="200" src="https://github.com/Anvar2742/Anvar2742/assets/99267663/806ce401-17be-43df-9d0b-75c4a279a418"  /></a>
+  <a href="https://github.com/Anvar2742/nft-market-react"><img height="200" src="https://github.com/Anvar2742/Anvar2742/assets/99267663/cf5243c1-4c54-42c8-a719-0720e36ddef1"  /></a>
+  <a href="https://github.com/Anvar2742/react-quiz"><img height="200" src="https://github.com/Anvar2742/Anvar2742/assets/99267663/e90cd407-953c-4f9c-967d-1b2f89bbda5d"/></a>
+  <a href="https://reliable-jalebi-6f9585.netlify.app/"><img height="200" src="https://github.com/Anvar2742/Anvar2742/assets/99267663/ec5a07de-803f-43da-9fd0-3bde19cc9f69"  /></a>
+  <img height="200" src="https://github.com/Anvar2742/Anvar2742/assets/99267663/f6ab0146-45d6-421f-836b-fef6bd7da5d3"  />
 </div>
+
 
 ###
 
