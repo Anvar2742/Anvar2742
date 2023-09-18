@@ -15,10 +15,10 @@
 
 <h2 align="left">I speak</h2>
 <ul>
-  <li>English (Fluent)</li>
-  <li>French (Intermediate)</li>
-  <li>Russian (Native)</li>
-  <li>Turkish (Native)</li>
+  <li>English</li>
+  <li>French</li>
+  <li>Russian</li>
+  <li>Turkish</li>
 </ul>
 
 ###
